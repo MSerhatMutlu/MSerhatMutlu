@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+- 🌱 I’m currently learning Java
+- 🏫 I am a freshman at Bilkent
 <!--
 **MSerhatMutlu/MSerhatMutlu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
